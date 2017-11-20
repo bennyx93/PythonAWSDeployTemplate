@@ -1,0 +1,4 @@
+Install AWS CLI - sudo pip install awscli
+Use pipenv - sudo pip install pipenv
+Include external libraries for AWS - pip install PACKAGE -t /path/to/directory
+Deploy Code to AWS - python deploy_package.py
